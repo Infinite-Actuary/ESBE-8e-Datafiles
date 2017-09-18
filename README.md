@@ -4,4 +4,4 @@
 * Each chapter is in its own zip file *ESBE8e_DATAfiles_CH##.zip*
 * Each zip file contains numerous Excel (.xlsx) data files
 # Download Now
-[![download-now](http://www.iconarchive.com/download/i60605/double-j-design/origami-colored-pencil/blue-document-download.ico)](https://github.com/Infinite-Actuary/ESBE-8e-Datafiles/archive/master.zip)
+[![download-now](http://www.iconsdb.com/icons/preview/color/24828E/download-xxl.png)](https://github.com/Infinite-Actuary/ESBE-8e-Datafiles/archive/master.zip)
