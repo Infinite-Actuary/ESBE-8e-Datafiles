@@ -3,4 +3,4 @@
 
 * Each chapter is in its own zip file `ESBE8e_DATAfiles_CH##.zip`
 * Each zip file contains numerous `.xlsx` (Excel) data
-* Download by clicking here
+## Download by clicking **[here](https://github.com/Infinite-Actuary/ESBE-8e-Datafiles/archive/master.zip)**
