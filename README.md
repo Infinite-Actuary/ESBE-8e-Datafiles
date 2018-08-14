@@ -6,4 +6,4 @@
 * Each zip file contains numerous Excel (.xlsx) data files
 
 # Download Now
-[![download-now](http://www.iconsdb.com/icons/preview/color/24828E/download-xxl.png)](https://github.com/Infinite-Actuary/ESBE-8e-Datafiles/archive/master.zip)
+[![download-now](https://www.iconsdb.com/icons/preview/color/24828E/download-xxl.png)](https://github.com/Infinite-Actuary/ESBE-8e-Datafiles/archive/master.zip)
